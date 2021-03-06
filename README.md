@@ -23,7 +23,7 @@ Tiny programs keep all the code in main.c and
 keep all the constants, includes and trash in main.h
 
 As the project gets larger you will need to think
-carefully about the easiestĺ way to organise your files
+carefully about the easiest way to organise your files
 
 https://www.microforum.cc/blogs/entry/46-modular-code-and-how-to-structure-an-embedded-c-project/
 
