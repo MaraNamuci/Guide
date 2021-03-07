@@ -126,3 +126,12 @@ bunch of other stuff.
 
 Otherwise it'll be hard to find the problem, and
 even harder to fix it.
+
+## Coding Basics
+
+https://repl.it/@MaraNamuci/Example#main.c
+
+I have created a repl containing some practical
+coding examples. Ask me about anything that you
+don't understand.
+
